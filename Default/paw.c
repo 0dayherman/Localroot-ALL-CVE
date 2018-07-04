@@ -43,7 +43,7 @@
 #include <crypt.h>
 
 const char *filename = "/etc/passwd";
-const char *backup_filename = "/tmp/hoho.bak";
+const char *backup_filename = "/tmp/paww.bak";
 const char *salt = "root";
 
 int f;
